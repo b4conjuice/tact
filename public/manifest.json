@@ -1,0 +1,8 @@
+{
+  "name": "tact",
+  "short_name": "tact",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
