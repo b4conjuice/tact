@@ -2,6 +2,19 @@
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
+## Assignment
+
+- [Indeed](https://www.indeed.com/m/viewjob?jk=e8c1f5c49c22c0fd&from=apply-conf)
+- [Assignment](https://docs.google.com/document/d/15ibvdNm1pxFRyVpfUJa4kNr9ViTbEiiZOSDj0_mx0xI/edit)
+- [Figma](https://www.figma.com/file/rsilPqu30TpPX7IOPqLPAf/Movie-list?node-id=3%3A136)
+
+## TODO
+
+- [ ] Add Signin Screen
+- [ ] Add Display Screen
+- [ ] Add Create Screen
+- [ ] Add Edit Screen
+
 ## What's next? How do I make an app with this?
 
 We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
