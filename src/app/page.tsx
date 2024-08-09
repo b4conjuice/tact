@@ -15,7 +15,7 @@ function SignIn() {
         </SignInButton>
       </SignedOut>
       <SignedIn>
-        <div className='flex space-x-2 text-cb-white'>
+        <div className='flex items-center space-x-2 text-cb-white'>
           <Username />
           <UserButton />
         </div>
